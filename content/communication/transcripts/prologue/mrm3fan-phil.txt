@@ -5,7 +5,7 @@ To Victor Laxman: No problem.
 From Victor Laxman in Victor Laxman's Nexus: It's weird signals again.
 To Victor Laxman: From Kemo?
 From Victor Laxman in Victor Laxman's Nexus: Yes, Kemo. Strong this time...
-To Victor Laxman: I was just there about 10 minutes ago…I didn't notice anything.
+To Victor Laxman: I was just there about 10 minutes agoâ€¦I didn't notice anything.
 From Victor Laxman in Victor Laxman's Nexus: Just started in the last few minutes.
 To Victor Laxman: Oh. Well, what can I do?
 From Victor Laxman in Victor Laxman's Nexus: I might meet you there... I'll monitor it for a bit. Are you going there now?
@@ -38,7 +38,7 @@ phend: Can you take me to the DRC?
 MrM3FaN: If I can find you.
 To Victor Laxman: He wants to meet the DRC. Where can I have him meet you?
 phend: I'm here. Where are you?
-MrM3FaN: I’m by the door still. Oh, there you are.
+MrM3FaN: Iâ€™m by the door still. Oh, there you are.
 From Victor Laxman in Victor Laxman's Nexus: What is he saying? What does he want?
 MrM3FaN: What do you want with the DRC?
 From Victor Laxman in Victor Laxman's Nexus: Tell him the DRC would like to speak with him.
@@ -63,11 +63,11 @@ MrM3FaN: The far right one. The yellow with the green marking on it.
 phend: Are these your books?
 MrM3FaN: Yes.
 phend: Okay. Thanks!
-MrM3FaN: You’re welcome.
+MrM3FaN: Youâ€™re welcome.
 phend: I suppose I'll see more of you. Now that I'm back.
 MrM3FaN: You might meet some when you get to the City.
 Phend: Thanks for your help.
-MrM3FaN: You’re welcome.
+MrM3FaN: Youâ€™re welcome.
 [Note: Phil meets the DRC in Ae'gura on the Palace Courtyard]
 (11/28 12:28:30) phend: not sure...
 (11/28 12:28:36) Victor Laxman: Where have you been?
@@ -134,7 +134,7 @@ MrM3FaN: You’re welcome.
 (11/28 12:41:23) GoffyOne: he must have falen
 (11/28 12:41:29) RedTansNax: I don't think Laxman is really here...
 (11/28 12:41:55) Lindy: hmmm...i logged the chat...lol
-(11/28 12:41:57) GoffyOne: and can´t get up
+(11/28 12:41:57) GoffyOne: and canÂ´t get up
 (11/28 12:41:57) RedTansNax: Again we are fooled....
 (11/28 12:42:08) Miroku: as did I
 (11/28 12:42:14) Edrick: so did I
