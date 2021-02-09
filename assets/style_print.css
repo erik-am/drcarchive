@@ -1,0 +1,245 @@
+/* CSS Document */
+
+
+body
+{
+	background-color: #ffffff;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+}
+
+#menu
+{
+	display: none;
+}
+
+#pagina p
+{
+  	text-align: justify;
+}
+
+h1
+{
+	color: #000000;
+	font-family: "Courier New", monospace;
+	font-size: 20pt;
+}
+
+h2
+{
+	color: #b8860B;
+	margin: 0px;
+	margin-top: 25px;
+	margin-bottom: 20px;
+	text-align: left;
+	font-weight: normal;
+	font-size: 1.4em;
+	font-family: Arial, Helvetica, sans-serif;
+	page-break-after: avoid;
+}
+
+h3
+{
+	color: #b8860B;
+	font-weight: normal;
+	font-size: 1.1em;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	page-break-after: avoid;
+}
+
+.article h4
+{
+	font-weight: bold;
+	font-size: 10pt;
+	font-family: "Courier New", monospace;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	page-break-after: avoid;
+}
+.article h5
+{
+	font-weight: normal;
+	font-style: italic;
+	font-size: 10pt;
+	font-family: "Courier New", monospace;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	page-break-after: avoid;
+}
+
+a
+{
+	text-decoration: none;
+	color: #734A12;
+}
+a:hover
+{
+	color: #b8860B;
+}
+
+.article
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-family: "Courier New", monospace;
+	font-size: 10pt;
+}
+
+.transcript-name
+{
+	font-weight: bold;
+}
+.transcript-no-highlight
+{
+	margin-left: 1em;
+}
+.transcript-highlight-1
+{
+	color: blue;
+	margin-left: 1em;
+}
+.transcript-highlight-2
+{
+	color: green;
+	margin-left: 1em;
+}
+.transcript-highlight-3
+{
+	color: red;
+	margin-left: 1em;
+}
+.transcript-highlight-4
+{
+	color: purple;
+	margin-left: 1em;
+}
+.transcript-highlight-5
+{
+	color: #663300;
+	margin-left: 1em;
+}
+.transcript-highlight-6
+{
+	color: #006666;
+	margin-left: 1em;
+}
+.article div .transcript-name
+{
+	margin-left: -1em;
+}
+
+q
+{
+	quotes: '\201C' '\201D';
+	font-style: oblique;
+}
+q:before
+{
+	content: open-quote;
+}
+q:after
+{
+	content: close-quote;
+}
+
+#copyright p
+{
+	color: #aaaaaa;
+	text-align: center;
+	font-size: 0.8em;
+	letter-spacing: 0.05em;
+	clear: both;
+	margin-top: 3em;
+}
+
+#pagina img
+{
+	padding: 0.7em;
+	border: 1px solid #b8860B;
+	background-color: #FFF8DC;
+}
+img.left
+{
+	float: left;
+	margin-right: 1.5em;
+}
+img.right
+{
+	float: right;
+	margin-left: 1.5em;
+}
+#pagina img.page
+{
+	border-width: 0;
+	background-color: inherit;
+}
+
+hr
+{
+	border: 0px;
+	color: #b8860B;
+	background-color: #b8860B;
+	height: 1px;
+}
+
+#footnotes hr
+{
+	width: 15%;
+	margin-left: 0px;
+	margin-top: 2em;
+	margin-bottom: 1em;
+}
+.symbol
+{
+	font-family: Arial, Helvetica, sans-serif;
+}
+#footnotes .symbol
+{
+	display: none;
+}
+
+table
+{
+	border: 1px solid #D4AF37;
+	border-collapse: collapse;
+}
+th
+{
+	border-bottom: 1px solid #D4AF37;
+	font-weight: bold;
+	text-align: center;
+	padding: 5px;
+  	background-color: #EEE8AA;
+  	color: #734A12;
+}
+td
+{
+	text-align: left;
+	vertical-align: top;
+	padding: 0.5em 1em 0.5em 1em;
+}
+td.entry
+{
+	border-bottom: 1px solid #D4AF37;
+}
+td p
+{
+	margin-top: 0px;
+}
+td ol,ul
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+table.pellet_data td
+{
+	text-align: center;
+	border: 1px solid #D4AF37;
+	vertical-align: middle;
+}
+.breadcrumbs {
+	display: none;
+}
