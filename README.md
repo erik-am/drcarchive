@@ -1,6 +1,6 @@
 # README
 
-**Visit the hosted website at https://erik-am.github.io/drcarchive/ **
+**Visit the hosted website at https://erik-am.github.io/drcarchive/**
 
 Old project created in 2008. Moved to GitHub for history's sake.
 
