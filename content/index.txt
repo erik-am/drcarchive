@@ -6,6 +6,8 @@ This archive is unique in that it is just an archive, nothing more, nothing less
 
 ##Latest News
 
+February, 2021 - Moved project to [GitHub](https://github.com/erik-am/drcarchive) for history's sake.
+
 March, 2010 - All transcripts up to March, 2007 have been archived. Furthermore, Dutch [translations](/translations/) of certain documents in the cavern have been put back.
 
 February, 2010 - All [transcripts](/communication/transcripts/) up to the release of Negilahn have been archived. It is now also possible to _filter_ the transcripts to find the one you are looking for. Furthermore, breadcrumbs have been added on most pages so that you won't get lost while digging in the archive.
