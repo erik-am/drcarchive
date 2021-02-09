@@ -2,8 +2,8 @@ def transcript
   output = yield
   
   output = output.gsub(/(^|<p>)(\([0-9][0-9][^)]+\)  *)*(([^\(]|\([^I])[^\:]+ \(I'm on the surface, be back in a minute\)\:)/, "")
-  output = output.gsub(/(^|<p>)(\([0-9][0-9][^)]+\)  *)*(([^\(]|\([^I])[^\:]+ \(Ich bin an der Oberfläche, komme gleich zurück\)\:)/, "")
-  output = output.gsub(/(^|<p>)(\([0-9][0-9][^)]+\)  *)*(([^\(]|\([^J])[^\:]+ \(Je suis à la surface. Je serai de retour dans une minute\)\:)/, "")
+  output = output.gsub(/(^|<p>)(\([0-9][0-9][^)]+\)  *)*(([^\(]|\([^I])[^\:]+ \(Ich bin an der OberflÃ¤che, komme gleich zurÃ¼ck\)\:)/, "")
+  output = output.gsub(/(^|<p>)(\([0-9][0-9][^)]+\)  *)*(([^\(]|\([^J])[^\:]+ \(Je suis Ã  la surface. Je serai de retour dans une minute\)\:)/, "")
   
   if !@item[:highlight].nil?
   	@item[:highlight].length.times do |i|
