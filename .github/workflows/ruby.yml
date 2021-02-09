@@ -24,7 +24,7 @@ jobs:
       run: gem install nanoc -v 3.8.0
       
     - name: Install other dependencies
-      run: gem install bluecloth
+      run: gem install bluecloth rubypants
 
     - name: Build website
       run: nanoc
