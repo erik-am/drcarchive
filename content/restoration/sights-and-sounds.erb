@@ -1,0 +1,17 @@
+<h2>Contents</h2>
+
+<p>Early during the first restoration when only authorized explorers were allowed to be in the cavern, the DRC posted some KI pictures and sound captures for everyone to see at their website.</p>
+
+<ul class="contents">
+<% @items.select { |item| item[:kind] == 'sights-and-sounds' }.sort_by { |item| [Date::parse(item[:posted_on])] }.each do |item| %>
+<li><a href="#<%= item.reps[0].path.gsub(/.*\/(.+?)\/$/, '\1') %>"><%= item[:title] %></a></li>
+<% end %>
+</ul>
+
+<% @items.select { |item| item[:kind] == 'sights-and-sounds' }.sort_by { |item| [Date::parse(item[:posted_on])] }.each do |item| %>
+<h2><%= item[:title] %><a name="<%= item.reps[0].path.gsub(/.*\/(.+?)\/$/, '\1') %>"></a></h2>
+<div class="article">
+<%= item.reps[0].content_at_snapshot(:pre) %>
+</div>
+
+<% end %>

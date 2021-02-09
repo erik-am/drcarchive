@@ -1,0 +1,13 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Michael Engberg has returned from the surface"
+layout: "transcript"
+logged_on: "2006-12-21"
+logged_by: "gelf56"
+location: "Ae'gura"
+sequence: 2
+highlight:
+  - "Michael Engberg"

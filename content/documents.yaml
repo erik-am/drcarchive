@@ -1,0 +1,9 @@
+# Built-in
+filters_pre:
+  - erb
+filters_post:
+  - rubypants
+
+# Custom
+title: "Documents"
+category: "documents"

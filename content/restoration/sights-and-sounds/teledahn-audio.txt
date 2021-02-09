@@ -1,0 +1,5 @@
+[**Teledahn KI Audio 2003-05-12**](teledahn.mp3 "Listen")
+
+KI f4. Still having trouble with KI audio recording. Sample provided from Teledahn using yet another KI model (f) found in the Well. Issues with both regular frequency and white noise. Don't know if it's coming from the KI, the Host, or the conversion process. We'll try another KI (f7) next time and see what changes. (Interesting Note: Not sure what they're using to pick up the sound - nothing like a diaphragm is apparent. Suspect fine crystalline threads.)
+
+[XAD 0.23 msecs. Hv3.3 Sv1.38] Laxman

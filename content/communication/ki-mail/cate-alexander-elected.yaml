@@ -1,0 +1,10 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+layout: "ki"
+title: "Cate Alexander Elected"
+from: "Cate Alexander"
+sent_on: "06/25/2007"

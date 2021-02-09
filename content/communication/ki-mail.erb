@@ -1,0 +1,8 @@
+
+<h2>KI-mails</h2>
+<p>During the second restoration the DRC used to send out announcements to the KIs of the explorers to keep everyone up-to-date.</p>
+<ul class="contents">
+<% @items.select { |item| item[:layout] == 'ki' }.sort_by { |item| [Date::parse(item[:sent_on]),item[:sequence]] }.each do |item| %>
+<li><a href="<%= item.reps[0].path.gsub(/.*\/(.+?)\/$/, '\1') %>/"><%= item[:title] %></a></li>
+<% end %>
+</ul>

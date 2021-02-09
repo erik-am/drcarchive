@@ -1,0 +1,13 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Michael Engberg answers questions in the German Neighbourhood"
+layout: "transcript"
+logged_on: "2003-12-21"
+logged_by: "McBeorn"
+time: "from 15:30 until 18:00"
+location: "German Neighborhood"
+highlight:
+  - "Michael Engberg"

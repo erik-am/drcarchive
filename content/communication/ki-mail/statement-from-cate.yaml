@@ -1,0 +1,10 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+layout: "ki"
+title: "A Statement from Cate"
+from: "Cate Alexander"
+sent_on: "05/24/2007"

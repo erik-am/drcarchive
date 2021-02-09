@@ -1,0 +1,8 @@
+# Built-in
+filters_post:
+  - "rubypants"
+
+# Custom
+title: "Minkata Training Book"
+description: "This book laid next to the Linking Book to Minkata in the Library in Ae'gura. It contained a training exercise for Surveyors."
+category: "documents"

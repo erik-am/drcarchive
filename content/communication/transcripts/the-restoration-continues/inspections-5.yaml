@@ -1,0 +1,14 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Dr. Kodama inspects Ae'gura"
+layout: "transcript"
+logged_on: "2006-12-20"
+logged_by: "Whilyam"
+location: "Ae'gura"
+time: "from 11:10 until 11:28"
+sequence: 1
+highlight:
+  - "Dr. Kodama"

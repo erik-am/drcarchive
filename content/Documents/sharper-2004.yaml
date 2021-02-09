@@ -1,0 +1,13 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+filters_post:
+  - "rubypants"
+
+# Custom
+layout: "doc"
+title: "Douglas Sharper's journal (2004)"
+description: "Douglas Sharper started a new journal in 2004 that explorers found in his secret office. Unfortunately, it was later taken away by someone."
+picture: "sharper04.png"
+picture_width: "150"
+picture_height: "226"

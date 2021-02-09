@@ -1,0 +1,15 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+filters_post:
+  - "rubypants"
+
+# Custom
+layout: "doc"
+title: "First Arrival of the Great King"
+description: "Information about the origin of the D'ni Holiday 'First Arrival of the Great King'. A painting of the Great King, painted by Fahlee (2840-3123), could be seen in the Ae'gura Museum."
+picture: "greatking_thumb.png"
+picture_alt: "A painting of the Great King"
+picture_width: 120
+picture_height: 168
+picture_large: "greatking.jpg"

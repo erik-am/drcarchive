@@ -1,0 +1,23 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Victor Laxman about instances"
+layout: "transcript"
+logged_on: "2006-12-22"
+logged_by: "kami"
+description: ""
+location: "Ae'gura"
+sequence: 1
+highlight:
+  - "Victor Laxman"
+
+reps:
+  default: {}
+  raw:
+    filters_pre:  []
+    filters_post: []
+    layout:       none
+    extension:    'txt'
+    filename: 'transcript'

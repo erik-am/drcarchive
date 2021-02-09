@@ -1,0 +1,11 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+title: "Kodama and Laxman"
+category: "restoration"
+kind: "sights-and-sounds"
+posted_on: "2003-02-27"
+is_hidden: "true"

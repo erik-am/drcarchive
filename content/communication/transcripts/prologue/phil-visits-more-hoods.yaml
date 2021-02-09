@@ -1,0 +1,13 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Phil visits more neighbourhoods"
+layout: "transcript"
+logged_on: "2003-12-04"
+logged_by: "Theora and Almlys"
+location: "Various neighbourhoods"
+sequence: 1
+highlight:
+  - "phend"

@@ -1,0 +1,21 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Delays are announced by the liaisons"
+layout: "transcript"
+logged_on: "2007-01-10"
+logged_by: "Anima_Caligo"
+description: ""
+location: "over Uru Obsession's KI channel"
+sequence: 2
+
+reps:
+  default: {}
+  raw:
+    filters_pre:  []
+    filters_post: []
+    layout:       none
+    extension:    'txt'
+    filename: 'transcript'

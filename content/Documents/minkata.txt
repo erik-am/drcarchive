@@ -1,0 +1,10 @@
+<h2>Minkata Training Book</h2>
+
+<p>This book laid next to the Linking Book to Minkata in the Library in Ae'gura. It contained a training exercise for Surveyors.</p>
+
+<p><img src="minkata_0.jpg" width="358" height="535" alt="Cover" class="page"></p>
+<p><img src="minkata_1.jpg" width="700" height="535" alt="Page 1" class="page"></p>
+<p><img src="minkata_2.jpg" width="700" height="536" alt="Page 2" class="page"></p>
+<p><img src="minkata_3.jpg" width="700" height="535" alt="Page 3" class="page"></p>
+<p><img src="minkata_4.jpg" width="700" height="536" alt="Page 4" class="page"></p>
+<p><img src="minkata_5.jpg" width="700" height="535" alt="Page 5" class="page"></p>

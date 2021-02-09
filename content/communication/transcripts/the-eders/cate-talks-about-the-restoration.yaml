@@ -1,0 +1,23 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Cate talks about the restoration"
+layout: "transcript"
+logged_on: "2007-02-02"
+logged_by: "Marentan and *JP*"
+description: ""
+location: "Uru Obsession neighbourhood"
+sequence: 2
+highlight:
+  - "Cate Alexander"
+
+reps:
+  default: {}
+  raw:
+    filters_pre:  []
+    filters_post: []
+    layout:       none
+    extension:    'txt'
+    filename: 'transcript'

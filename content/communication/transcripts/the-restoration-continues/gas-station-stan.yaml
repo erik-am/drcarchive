@@ -1,0 +1,23 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: '"Gas Station Stan" returns'
+layout: "transcript"
+logged_on: "2006-12-24"
+logged_by: "Foo"
+description: "Stanley Murray, an old friend of Uru Obsession, returns. He ran a service station in New Mexico used by the DRC back in the early days, got to know them, and was one of the first explorers down in the Cavern. He was a good source of inside information. (Thanks to BrettM for this description)"
+location: "Uru Obsession neighbourhood"
+sequence: 1
+highlight:
+  - "Stanley Murray"
+
+reps:
+  default: {}
+  raw:
+    filters_pre:  []
+    filters_post: []
+    layout:       none
+    extension:    'txt'
+    filename: 'transcript'

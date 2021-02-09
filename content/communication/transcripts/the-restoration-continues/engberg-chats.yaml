@@ -1,0 +1,23 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Michael Engberg couldn't sleep"
+layout: "transcript"
+logged_on: "2007-01-04"
+logged_by: "John Lynch"
+description: ""
+location: "Ae'gura"
+sequence: 1
+highlight:
+  - "Michael Engberg"
+
+reps:
+  default: {}
+  raw:
+    filters_pre:  []
+    filters_post: []
+    layout:       none
+    extension:    'txt'
+    filename: 'transcript'

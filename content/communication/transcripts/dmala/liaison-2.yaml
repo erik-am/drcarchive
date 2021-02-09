@@ -1,0 +1,14 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "DRC / Liaison Meeting"
+layout: "transcript"
+description: " "
+logged_on: "2006-05-02"
+logged_by: "DRC Liaisons"
+location: "Uruto (A neighbourhood)"
+highlight:
+  - "Marie Sutherland"
+  - "Dr. Kodama"

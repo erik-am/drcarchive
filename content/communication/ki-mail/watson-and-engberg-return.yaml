@@ -1,0 +1,10 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+layout: "ki"
+title: "Dr. Watson and Michael Engberg have returned to the Cavern!"
+from: "The DRC"
+sent_on: "09/12/2007"

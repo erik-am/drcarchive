@@ -1,0 +1,10 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+layout: "ki"
+title: "Pellet Progress Update"
+from: "Victor Laxman"
+sent_on: "09/11/2007"

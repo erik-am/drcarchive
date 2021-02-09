@@ -1,0 +1,17 @@
+##Welcome
+
+Welcome to the D'ni Restoration Archive. Our goal is to archive as much material as possible from the two attempts to restore the D'ni cavern to its former glory. At this website you can find KI mails that were once sent to explorers, interviews, all kinds of documents, updates on the restoration posted by DRC members, etcetera, etcetera.
+
+This archive is unique in that it is just an archive, nothing more, nothing less. Our intend is to present the archived material as raw as possible, without any modifications. So if you like digging through old, dusty material, this is the place to be. If you just want to know more about a certain topic without having to look too far, I would recommend the comprehensive [D'niPedia](http://www.dpwr.net/forums/index.php?autocom=ibwiki) at [DPWR.net](http://www.dpwr.net) instead.
+
+##Latest News
+
+March, 2010 - All transcripts up to March, 2007 have been archived. Furthermore, Dutch [translations](/translations/) of certain documents in the cavern have been put back.
+
+February, 2010 - All [transcripts](/communication/transcripts/) up to the release of Negilahn have been archived. It is now also possible to _filter_ the transcripts to find the one you are looking for. Furthermore, breadcrumbs have been added on most pages so that you won't get lost while digging in the archive.
+
+January, 2010 - The website is now powered by [nanoc 3.0](http://nanoc.stoneship.org/).
+
+November, 2008 - Some changes in the design. All transcripts from Prologue up to the release of Eder Delin have been archived.
+
+February, 2008 - New version of the Archive. We intend to update the Archive a lot during the coming two months.

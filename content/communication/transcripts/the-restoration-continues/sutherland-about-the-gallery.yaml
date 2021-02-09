@@ -1,0 +1,23 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Marie Sutherland talks about the opening of the gallery doors"
+layout: "transcript"
+logged_on: "2006-12-22"
+logged_by: "Tomahnaguy"
+description: ""
+location: "Guild of Greeters neighbourhood"
+sequence: 3
+highlight:
+  - "Marie Sutherland"
+
+reps:
+  default: {}
+  raw:
+    filters_pre:  []
+    filters_post: []
+    layout:       none
+    extension:    'txt'
+    filename: 'transcript'

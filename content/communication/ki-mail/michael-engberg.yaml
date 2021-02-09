@@ -1,0 +1,11 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+layout: "ki"
+title: "DRC Member Michael Engberg Missing"
+from: "The DRC"
+sent_on: "05/23/2007"
+sequence: 2

@@ -1,0 +1,10 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+layout: "ki"
+title: "Cate Resigns"
+from: "The DRC"
+sent_on: "11/01/2007"

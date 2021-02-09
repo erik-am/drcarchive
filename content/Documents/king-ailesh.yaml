@@ -1,0 +1,12 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+filters_post:
+  - "rubypants"
+
+# Custom
+layout: "doc"
+subcat: "kings"
+title: "King Ailesh"
+description: "A draft of this document, written by Sam Reynolds, was found on the Tokotah rooftop."
+king: 2

@@ -1,0 +1,15 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Meet the DRC: Marie Sutherland (Morning session)"
+layout: "transcript"
+description: " "
+logged_on: "2006-04-26"
+time: "from 10:00 until 10:30"
+sequence: 1
+logged_by: "DRC Liaisons"
+location: "Palmner's Place Neighbourhood"
+highlight:
+  - "Marie Sutherland"

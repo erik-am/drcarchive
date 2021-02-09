@@ -1,0 +1,27 @@
+# Built-in
+filters_post:
+  - "rubypants"
+
+reps:
+  default: {}
+  raw:
+    filters_pre:  []
+    filters_post: []
+    layout:       none
+    extension:    'txt'
+    filename: 'transcript'
+ 
+# Custom
+title: "Wheely's death"
+layout: "transcript"
+description: " "
+logged_on: "2007-05-22"
+time: "from 16:45 until 19:00"
+logged_by: "No'ga"
+location: "Ae'gura, near the Kahlo Pub"
+highlight:
+  - "Michael Engberg"
+  - "Victor Laxman"
+  - "Wheely"
+  - "Cate Alexander"
+  - "ResEng233"

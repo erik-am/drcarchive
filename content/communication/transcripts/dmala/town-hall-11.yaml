@@ -1,0 +1,15 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Ae'gura & The City (Evening session)"
+layout: "transcript"
+description: " "
+logged_on: "2006-06-20"
+time: "from 21:00 until 22:00"
+sequence: 2
+logged_by: "DRC Liaisons"
+location: "Town Hall Neighbourhood"
+highlight:
+  - "Marie Sutherland"

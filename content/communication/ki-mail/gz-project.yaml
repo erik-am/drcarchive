@@ -1,0 +1,11 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+layout: "ki"
+name: "gz-project"
+title: "Great Zero Marker Project"
+from: "Victor Laxman"
+sent_on: "04/16/2007"

@@ -1,0 +1,11 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+title: "Plant on Eder Gira"
+category: "restoration"
+kind: "sights-and-sounds"
+posted_on: "2003-05-09"
+is_hidden: "true"

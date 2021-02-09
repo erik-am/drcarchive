@@ -1,0 +1,8 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+title: "News Articles and Interviews"
+category: "communication"

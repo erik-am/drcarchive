@@ -1,0 +1,23 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "The liaisons have resigned"
+layout: "transcript"
+logged_on: "2007-01-17"
+logged_by: "Gadren"
+description: ""
+location: "Guild of Greeters neighbourhood"
+sequence: 2
+highlight:
+  - "Dr. Kodama"
+
+reps:
+  default: {}
+  raw:
+    filters_pre:  []
+    filters_post: []
+    layout:       none
+    extension:    'txt'
+    filename: 'transcript'

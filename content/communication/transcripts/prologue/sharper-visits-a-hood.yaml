@@ -1,0 +1,13 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Sharper visits a neighbourhood"
+layout: "transcript"
+logged_on: "2003-12-29"
+logged_by: ":-)kateR"
+time: "from 11:30 until 11:45"
+location: "Urunivers Neighbourhood"
+highlight:
+  - "Douglas Sharper"

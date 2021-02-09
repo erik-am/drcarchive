@@ -1,0 +1,13 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Phil reappears"
+layout: "transcript"
+logged_on: "2003-11-24"
+logged_by: "Terra"
+sequence: 2
+location: "Eder Kemo"
+highlight:
+  - "phend"

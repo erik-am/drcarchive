@@ -1,0 +1,12 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+filters_post:
+  - "rubypants"
+
+# Custom
+layout: "doc"
+subcat: "kings"
+title: "King Hemelin"
+description: "This document was found in the Hall of Kings on Ae'gura."
+king: 13

@@ -1,0 +1,13 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Rand Miller visits the explorers"
+layout: "transcript"
+logged_on: "2006-12-21"
+logged_by: "gelf56"
+location: "Uru Obsession neighbourhood"
+sequence: 3
+highlight:
+  - "Rand"

@@ -1,0 +1,12 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Michael Engberg visits Ae'gura again"
+layout: "transcript"
+logged_on: "2003-12-03"
+logged_by: "Moranda"
+location: "Ae'gura"
+highlight:
+  - "Michael Engberg"

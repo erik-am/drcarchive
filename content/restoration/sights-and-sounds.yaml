@@ -1,0 +1,7 @@
+# Built-in
+filters_pre:
+  - "erb"
+
+# Custom
+title: "Sights &amp; Sounds"
+category: "restoration"

@@ -1,0 +1,16 @@
+<%= render 'header' %>
+
+<h2><%= @item[:title] %></h2>
+
+<p><%= @item[:description] %></p>
+
+<div class="article">
+
+<p><% if @item[:logged_on] != nil %>
+<strong>Date: </strong><%= @item[:logged_on] %><% if @item[:time]!= nil %>, <%= @item[:time]%><% end %><br><% end %>
+<% if @item[:location]!= nil %><strong>Location: </strong><%= @item[:location]%><br><% end %>
+<% if @item[:logged_by]!= nil %><strong>Logged By: </strong><%= @item[:logged_by]%><% end %>
+<%= transcript { yield } %>
+</div>
+
+<%= render 'footer' %>

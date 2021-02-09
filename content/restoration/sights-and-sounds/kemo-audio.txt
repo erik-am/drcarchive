@@ -1,0 +1,5 @@
+[**Eder Kemo KI Audio 2003-06-18**](kemo.mp3 "Listen")
+
+KI f7. This sample is from Eder Kemo during one of its frequent storms. Still several playback issues. We have made a bit of progress with the higher frequencies and reducing the quantization noise. We'll try to make adjustments at the Host next.
+
+[XAD 0.4 msecs. Hv3.3 Sv1.42] Laxman

@@ -1,0 +1,10 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+layout: "ki"
+title: "Guild Pubs Open"
+from: "The DRC"
+sent_on: "09/09/2007"

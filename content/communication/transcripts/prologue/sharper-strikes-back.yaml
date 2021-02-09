@@ -1,0 +1,13 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Sharper strikes back"
+layout: "transcript"
+logged_on: "2003-12-17"
+sequence: 2
+logged_by: "Deg"
+location: "Ae'gura"
+highlight:
+  - "Douglas Sharper"

@@ -1,0 +1,10 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+filters_post:
+  - "rubypants"
+
+# Custom
+title: "Venalem"
+layout: "age-notes"
+category: "restoration"

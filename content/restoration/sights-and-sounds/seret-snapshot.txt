@@ -1,0 +1,7 @@
+**Seret KI Snapshot 2002-08-14 b**
+
+KI c4. Snapped a shot of Dr. Watson (and Rand?) on the Seret neighborhood balcony. Minor chromatic aberration evident - still adjusting the colour channel processing. Also picked up some periphery noise - new issue. Other issues: Periphery blurring, vignetting.
+
+[XAD 9.1 msecs. Hv2.8 Sv0.97] Laxman
+
+![](seret.jpg)

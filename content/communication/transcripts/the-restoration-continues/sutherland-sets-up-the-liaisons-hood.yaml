@@ -1,0 +1,23 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Marie Sutherland sets up the liaison's 'hood"
+layout: "transcript"
+logged_on: "2006-12-26"
+logged_by: "Tweek"
+description: ""
+location: "Liaison's neighbourhood"
+sequence: 1
+highlight:
+  - "Marie Sutherland"
+
+reps:
+  default: {}
+  raw:
+    filters_pre:  []
+    filters_post: []
+    layout:       none
+    extension:    'txt'
+    filename: 'transcript'

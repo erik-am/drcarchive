@@ -1,0 +1,14 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Michael Engberg about his daughter"
+layout: "transcript"
+logged_on: "2006-12-21"
+logged_by: "Dan'nee"
+description: "This transcript was slightly edited."
+location: "Ae'gura"
+sequence: 4
+highlight:
+  - "Michael Engberg"

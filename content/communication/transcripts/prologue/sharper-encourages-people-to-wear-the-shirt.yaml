@@ -1,0 +1,15 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Sharper encourages people to wear Yeesha's shirt"
+layout: "transcript"
+description: " "
+logged_on: "2003-12-10"
+logged_by: "Unknown"
+sequence: 1
+location: "A neighbourhood"
+highlight:
+  - "Douglas Sharper"
+  - "phend"

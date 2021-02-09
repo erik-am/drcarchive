@@ -1,0 +1,28 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Cate Alexander introduces herself"
+layout: "transcript"
+logged_on: "2007-01-03"
+logged_by: "D'Lanor"
+description: ""
+location: "A Beginner's Bevin"
+sequence: 1
+highlight:
+  - "Cate Alexander"
+  - "Marie Sutherland"
+  - "Dr. Kodama"
+  - "Michael Engberg"
+  - "Victor Laxman"
+  - "ResEng Enorton"
+
+reps:
+  default: {}
+  raw:
+    filters_pre:  []
+    filters_post: []
+    layout:       none
+    extension:    'txt'
+    filename: 'transcript'

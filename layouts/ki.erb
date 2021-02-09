@@ -1,0 +1,13 @@
+<%= render 'header' %>
+
+<h2><%= @item[:title] %></h2>
+<div class="article">
+<p>
+<strong>Title:</strong> <%= @item[:title] %><br>
+<strong>From:&nbsp;</strong> <%= @item[:from] %><br>
+<strong>Date:&nbsp;</strong>  <%= @item[:sent_on] %>
+</p>
+<%= yield %>
+</div>
+
+<%= render 'footer' %>

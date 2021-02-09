@@ -1,0 +1,11 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+title: "Explorers in D&#8217;ni"
+category: "restoration"
+kind: "sights-and-sounds"
+posted_on: "2003-01-26"
+is_hidden: "true"

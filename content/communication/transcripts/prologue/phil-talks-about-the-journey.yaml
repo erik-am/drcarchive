@@ -1,0 +1,14 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Phil talks about the Journey"
+layout: "transcript"
+description: " "
+logged_on: "2003-12-10"
+logged_by: "Ayli"
+sequence: 2
+location: "Maverick's Neighbourhood"
+highlight:
+  - "phend"

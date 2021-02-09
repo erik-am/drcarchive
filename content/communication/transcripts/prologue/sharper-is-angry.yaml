@@ -1,0 +1,13 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Sharper is angry"
+layout: "transcript"
+logged_on: "2003-12-16"
+sequence: 1
+logged_by: "Sheldarn"
+location: "Guild of Greeters Neighborhood"
+highlight:
+  - "Douglas Sharper"

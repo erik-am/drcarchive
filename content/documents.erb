@@ -1,0 +1,21 @@
+<h2>Documents</h2>
+
+<p>There are many documents to be found in the Cavern and the Ages. Information sheets and notebooks from the DRC, translations of D'ni texts, personal journals.&#8230; On top of that, the DRC website used to have lots of information about the various Ages and the D'ni culture.</p>
+
+<ul class="contents">
+<% @items.select { |item| (/documents\/(.+?)\/$/.match(item.reps[0].path))&&(item[:subcat].nil?) }.sort_by { |item| item[:title] }.each do |item| %>
+<li>
+	<a href="<%= item.reps[0].path.gsub(/.*\/(.+?)\/$/, '\1') %>/"><%= item[:title] %></a><br>
+	<%= item[:description] %>
+</li>
+<% end %>
+</ul>
+
+<h3>Kings&#8217; Summaries</h3>
+<ol>
+<% @items.select { |item| item[:subcat] == 'kings' }.sort_by { |item| item[:king] }.each do |item| %>
+<li>
+	<a href="<%= item.reps[0].path.gsub(/.*\/(.+?)\/$/, '\1') %>/"><%= item[:title] %></a>
+</li>
+<% end %>
+</ol>

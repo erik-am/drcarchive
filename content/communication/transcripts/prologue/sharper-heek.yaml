@@ -1,0 +1,15 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Douglas Sharper plays a game of heek"
+layout: "transcript"
+description: " "
+logged_on: "2003-11-24"
+time: "from 13:00 until 13:35"
+sequence: 1
+logged_by: "Lucas"
+location: "DRC(1) Neighbourhood"
+highlight:
+  - "Douglas Sharper"

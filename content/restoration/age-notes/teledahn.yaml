@@ -1,0 +1,12 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+title: "Teledahn"
+layout: "age-notes"
+category: "restoration"
+picture: "teledahn.jpg"
+picture_width: 376
+picture_height: 252

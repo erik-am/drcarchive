@@ -1,0 +1,15 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Dr. Kodama inspects Zia's neighbourhood"
+layout: "transcript"
+logged_on: "2006-12-20"
+logged_by: "ireenquench"
+location: "Zia's neighbourhood"
+time: "from 11:34 until 11:51"
+sequence: 2
+highlight:
+  - "Dr. Kodama"
+  - "Greydragon"

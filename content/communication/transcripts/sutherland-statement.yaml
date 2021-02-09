@@ -1,0 +1,14 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Marie Sutherland's brief statement"
+layout: "transcript"
+description: " "
+logged_on: "2007-05-22"
+time: "around 20:00"
+logged_by: "Ai'ron"
+location: "Ae'gura, near the Kahlo Pub"
+highlight:
+  - "Marie Sutherland"

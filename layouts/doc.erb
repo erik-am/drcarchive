@@ -1,0 +1,24 @@
+<%= render 'header' %>
+
+<h2><%= @item[:title] %></h2>
+
+<p><%=  @item[:description] %></p>
+
+<div class="article">
+<% if  @item[:picture] != nil	
+	if  @item[:picture_alt] != nil
+		alt =  @item[:picture_alt]
+	else
+		alt =  @item[:title]
+	end
+	
+	if  @item[:picture_large] != nil then %>
+<a href="<%=  @item[:picture_large] %>" title="View at full size"><img src="<%=  @item[:picture] %>" width="<%=  @item[:picture_width] %>" height="<%=  @item[:picture_height] %>" class="left" alt="<%= alt %>"></a>
+	<%	else %>
+<img src="<%= @item[:picture] %>" width="<%=  @item[:picture_width] %>" height="<%=  @item[:picture_height] %>" class="left" alt="<%= alt %>">
+	<%	end
+end %>
+<%= yield %>
+</div>
+
+<%= render 'footer' %>

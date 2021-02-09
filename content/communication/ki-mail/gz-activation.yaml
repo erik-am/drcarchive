@@ -1,0 +1,11 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+layout: "ki"
+title: "Great Zero Activation"
+from: "The DRC"
+sent_on: "06/23/2007"
+sequence: 2

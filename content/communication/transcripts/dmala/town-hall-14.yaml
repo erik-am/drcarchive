@@ -1,0 +1,15 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Re-Opening of the Cavern"
+layout: "transcript"
+description: " "
+logged_on: "2006-12-19"
+time: "from 11:00 until 12:00"
+logged_by: "DRC Liaisons"
+location: "Guild of Greeters Neighbourhood"
+highlight:
+  - "Marie Sutherland"
+  - "Dr. Kodama"

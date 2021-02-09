@@ -1,0 +1,13 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Sharper found a new spot"
+layout: "transcript"
+logged_on: "2003-12-05"
+logged_by: "John Lynch"
+location: "Guild of Greeters neighbourhood"
+sequence: 1
+highlight:
+  - "Douglas Sharper"

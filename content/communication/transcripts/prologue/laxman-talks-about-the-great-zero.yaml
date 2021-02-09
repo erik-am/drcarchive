@@ -1,0 +1,14 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Victor Laxman talks about the Great Zero"
+layout: "transcript"
+description: " "
+logged_on: "2003-12-11"
+logged_by: "JBhypno"
+sequence: 1
+location: "Guild of Greeters Neighbourhood"
+highlight:
+  - "Victor Laxman"

@@ -1,0 +1,14 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Rand Miller and Dr. Watson visit a neighbourhood"
+layout: "transcript"
+logged_on: "2003-12-18"
+logged_by: "Unknown"
+location: "A neighbourhood"
+sequence: 1
+highlight:
+  - "Rand"
+  - "Dr Watson"  

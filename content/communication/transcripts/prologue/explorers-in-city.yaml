@@ -1,0 +1,13 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Engberg discovers explorers that sneaked into the City"
+layout: "transcript"
+description: "Some explorers found a loose Nexus Linking Book and linked to the City before it was approved by the DRC."
+logged_on: "2003-11-18"
+logged_by: "Christoph05"
+location: "Kahlo Pub in Ae'gura"
+highlight:
+  - "Michael Engberg"

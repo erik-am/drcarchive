@@ -1,0 +1,13 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Marie Sutherland about the elections"
+layout: "transcript"
+description: " "
+logged_on: "2006-04-07"
+logged_by: "Cycreim"
+highlight:
+  - "Marie Sutherland"
+  - "Rand"

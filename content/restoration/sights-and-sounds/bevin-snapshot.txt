@@ -1,0 +1,7 @@
+**Bevin KI Snapshot 2002-05-03 c**
+
+Another shot taken with KI B29. Lens cleaning resulted in slight improvement in overall noise level (lens replacement probably required.) Defective lattice storage artifacts still prevalent. Software upgrade resulted in less image distortaion. Vignetting remains due to conversion from oval source image.
+
+[XAD 13.3 msecs. Hv2.1 Sv0.84] Laxman
+
+![](bevin.jpg)

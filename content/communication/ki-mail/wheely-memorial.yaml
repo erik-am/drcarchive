@@ -1,0 +1,10 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+layout: "ki"
+title: "Wheely Memorial"
+from: "The DRC"
+sent_on: "06/26/2007"

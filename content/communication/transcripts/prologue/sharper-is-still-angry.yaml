@@ -1,0 +1,13 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Sharper is still angry"
+layout: "transcript"
+logged_on: "2003-12-16"
+sequence: 2
+logged_by: "Will Price"
+location: "A neighborhood"
+highlight:
+  - "Douglas Sharper"

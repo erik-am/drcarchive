@@ -1,0 +1,23 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Dr. Kodama talks about the community rooms"
+layout: "transcript"
+logged_on: "2006-12-29"
+logged_by: "BrettM"
+description: ""
+location: "Uru Obsession neighbourhood"
+sequence: 1
+highlight:
+  - "Dr. Kodama"
+
+reps:
+  default: {}
+  raw:
+    filters_pre:  []
+    filters_post: []
+    layout:       none
+    extension:    'txt'
+    filename: 'transcript'

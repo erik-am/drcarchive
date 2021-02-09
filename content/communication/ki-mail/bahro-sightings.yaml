@@ -1,0 +1,10 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+layout: "ki"
+title: "Increased Bahro Sightings"
+from: "The DRC"
+sent_on: "08/01/2007"

@@ -1,0 +1,11 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+layout: "ki"
+title: "KI Light"
+from: "The DRC"
+sent_on: "05/20/2007"
+sequence: 1

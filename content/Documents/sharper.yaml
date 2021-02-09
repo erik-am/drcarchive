@@ -1,0 +1,13 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+filters_post:
+  - "rubypants"
+
+# Custom
+layout: "doc"
+title: "Douglas Sharper's journal"
+description: "Douglas Sharper's journal, that could be found in his secret office in D'ni."
+picture: "sharper.jpg"
+picture_width: "132"
+picture_height: "200"

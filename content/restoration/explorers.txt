@@ -1,0 +1,48 @@
+## Explorer Contributions
+
+During the second restoration, the explorers contributed to the restoration in many ways. Explorers restored stained glass windows, helped Victor Laxman to calibrate the Great Zero, fed the Lake Algae, and together with the DRC they laid the foundations for the Guilds.
+
+This is the official list of projects for the explorers that was shown at the DRC website:
+<table class="restoration_project" cellspacing="0">
+
+<tr>
+	<th>Item Name</th>
+	<th>Phase</th>
+	<th>Information</th>
+</tr>
+<tr>
+	<td rowspan="2" class="entry">Eder Delin Stained Glass</td>
+	<td>One</td>
+	<td>Explorers invited to contribute. Engberg. 03.28.07</td>
+</tr>
+<tr>
+	<td class="entry">Two - Four</td>
+	<td class="entry">No longer taking submissions.</td>
+
+</tr>
+<tr>
+	<td rowspan="2" class="entry">Eder Tsogal Stained Glass</td>
+	<td>One</td>
+	<td>Explorers invited to contribute. Engberg. 02.22.07</td>
+</tr>
+<tr>
+	<td class="entry">Two - Four</td>
+	<td class="entry">No longer taking submissions.</td>
+
+</tr>
+<tr>
+  <td rowspan="2" class="entry">Great Zero Stained Glass</td>
+  <td>One</td>
+  <td>Submissions accepted until 7.21.07</td>
+</tr>
+<tr>
+	<td class="entry">Two - Three</td>
+	<td class="entry">No longer taking submissions.</td>
+
+</tr>
+<tr>
+  <td rowspan="1" class="entry">Feed the Lake Algae Project</td>
+  <td class="entry">One</td>
+  <td class="entry"></td>
+</tr>
+</table>

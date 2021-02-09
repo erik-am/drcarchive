@@ -1,0 +1,14 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Opening of the first D'ni neighbourhood"
+layout: "transcript2"
+description: "A speech given by Dr. Richard Watson at an informal opening ceremony of the first D'ni neighbourhood,
+January 31, 2002"
+logged_on: "2002-01-31"
+highlight:
+  - "Dr. Watson"

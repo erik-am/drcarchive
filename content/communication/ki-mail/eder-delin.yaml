@@ -1,0 +1,12 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+layout: "ki"
+name: "eder-delin"
+title: "Eder Delin"
+from: "The DRC"
+sent_on: "01/19/2007"
+sequence: 1

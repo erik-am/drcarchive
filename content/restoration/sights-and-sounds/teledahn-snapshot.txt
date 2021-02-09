@@ -1,0 +1,7 @@
+**Teledahn KI Snapshot 2002-05-02 f**
+
+Best of several successful shots taken with KI B29. Image uploaded after return (inter-age transmission failed). Substantial noise over entire image related to organic contamination of lens material in KI B29. Defects on right caused by microscopic crack in Host 1-S lattice location A601/J299/E7710 after upload. (Replace A601 after P2 approval.) Image distortion and vignetting byproducts of extraction and A/D conversion.
+
+[XAD 15.2 msecs. Hv2.1 Sv0.83] Laxman
+
+![](teledahn.jpg)

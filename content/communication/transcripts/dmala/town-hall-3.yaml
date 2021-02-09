@@ -1,0 +1,15 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Meet the DRC: Dr. Kodama (Morning session)"
+layout: "transcript"
+description: " "
+logged_on: "2006-04-26"
+time: "from 11:00 until 11:30"
+sequence: 3
+logged_by: "DRC Liaisons"
+location: "The Great Tree Neighbourhood"
+highlight:
+  - "Dr. Kodama"

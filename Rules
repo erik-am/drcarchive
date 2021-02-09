@@ -1,0 +1,73 @@
+compile '/communication/forum/' do
+
+end
+route '/communication/forum/' do
+	item.identifier + 'index.php'
+end
+
+compile '/sitemap/' do
+	filter :erb
+end
+route '/sitemap/' do
+	'/sitemap.xml'
+end
+
+compile '/translations/' do
+	layout 'default'
+	filter :rubypants
+end
+
+compile /documents\/.+/ do
+  if item[:layout] == 'doc'
+    filter :erb
+    filter :bluecloth
+    layout 'doc'
+    filter :rubypants
+  else
+    layout 'default'
+    filter :rubypants
+  end
+end
+
+compile /communication\/ki-mail\/.+/ do
+  filter :erb
+  filter :bluecloth
+  layout 'ki'
+  filter :rubypants
+end
+
+compile /communication\/transcripts\/.+/ do
+  if item[:layout] == 'transcript2'
+    filter :bluecloth
+    layout 'transcript2'
+  else
+    layout 'transcript'
+  end
+  filter :rubypants
+end
+
+compile '/communication/transcripts/' do
+  filter :erb
+  layout 'default'
+  filter :rubypants
+end
+
+compile /restoration\/age-notes\/.+/ do
+  filter :erb
+  filter :bluecloth
+  layout 'age-notes'
+  filter :rubypants
+end
+
+compile '*' do
+  filter :erb
+  filter :bluecloth
+  layout 'default'
+  filter :rubypants
+end
+
+route '*' do
+  item.identifier + 'index.html'
+end
+
+layout '*', :erb

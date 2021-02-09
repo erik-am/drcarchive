@@ -1,0 +1,15 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Michael Engberg, Rand Miller and Dr. Kodama in Ae'gura"
+layout: "transcript"
+logged_on: "2003-12-02"
+logged_by: "knottyboy"
+location: "Ae'gura"
+sequence: 1
+highlight:
+  - "Michael Engberg"
+  - "Rand"
+  - "Dr Kodama"  

@@ -1,0 +1,93 @@
+(11/19 15:46:56) phend: hello?
+(11/19 15:47:20) Zardoz: Hello?
+(11/19 15:47:36) phend: hello...
+(11/19 15:47:50) Zardoz: Is that you, Phil?
+(11/19 15:48:02) phend: dark...
+(11/19 15:48:13) phend: yes
+[Note: Zardoz discovers that Phil Henderson is behind the Journey door and opens it]
+(11/19 15:48:28) phend: whoa, where am I
+(11/19 15:48:37) Zardoz: This is Eder Kemo
+(11/19 15:48:55) phend: yeah...
+(11/19 15:49:05) Zardoz: Where have you been? We lost contact with you
+(11/19 15:49:23) phend: who lost co... who are you?
+(11/19 15:49:36) Zardoz: I am an explorer, name of Zardoz
+(11/19 15:49:48) phend: okay
+(11/19 15:49:51) phend: wow
+(11/19 15:50:05) Zardoz: Do you remember, a long while ago, contacting Doc Greer?
+(11/19 15:50:17) phend: Sorry, I'm confused. Are you with the DRC?
+(11/19 15:50:34) Zardoz: No. Not exactly an approved explorer
+(11/19 15:50:56) phend: I remember Greer, I spoke with him before I left.
+(11/19 15:51:12) Zardoz: "Left"? Do you recall where you went?
+(11/19 15:51:48) phend: I better talk to the DRC... maybe. I need to figure this out.
+(11/19 15:52:12) phend: How can I get to Ae'gura?
+(11/19 15:52:33) Zardoz: Not easy - do you know about the Nexus?
+(11/19 15:52:57) phend: Yeah.
+(11/19 15:53:04) Zardoz: I can get you there, through the Nexus
+(11/19 15:53:32) Zardoz: But I don't know if any DRC are there now
+(11/19 15:53:58) Zardoz: And we'll have to go a roundabout way
+(11/19 15:54:02) phend: Okay, that'd be great... I'll have a better chance of finding them there.
+(11/19 15:54:13) Zardoz: Okay, "follow" me
+(11/19 15:54:18) phend: okay
+(11/19 15:54:28) From Victor Laxman in Victor Laxman's Nexus: did you say "Phil"?
+(11/19 15:54:44) Zardoz: Hmm, having trouible getting this to work
+(11/19 15:55:31) Zardoz: Phil, there is a new book, I'm trying to "share" it with you
+(11/19 15:55:59) phend: okay, I feel funny
+(11/19 15:56:07) Zardoz: But you don't seem to "be there"
+(11/19 15:56:24) phend: The DRC used to keep a book here. Is it still there?
+(11/19 15:56:28) Zardoz: Victor Laxman is talking to me - do you want him to come here?
+(11/19 15:57:05) To Victor Laxman in Victor Laxman's Nexus: Just one minute, Mr. Laxman
+(11/19 15:57:09) phend: Victor?
+(11/19 15:57:12) Zardoz: Yes
+(11/19 15:57:30) phend: No, I'll find them. But thanks.
+(11/19 15:57:39) Zardoz: Okay - good luck
+(11/19 15:58:07) phend: wait
+(11/19 15:58:14) Zardoz: Yes?
+(11/19 15:58:35) phend: can you open the door again - I need some time
+(11/19 15:58:51) Zardoz: Okay - but will you return?
+(11/19 15:59:29) phend: Yeah, I think I need to. I'm just not... just need some time.
+(11/19 15:59:35) Zardoz: Okay, follow me
+(11/19 16:00:09) Zardoz: Goodbye - and good luck
+(11/19 16:00:11) phend: thanks
+(11/19 16:00:25) phend: How did you get here. To D'ni.
+(11/19 16:00:51) Zardoz: We've come with some help - Jeff Zandi
+(11/19 16:01:09) Zardoz: The DRC isn't thrilled
+(11/19 16:01:14) phend: Yeah, how many have come?
+(11/19 16:01:27) Zardoz: Lots - I think in the low hundreds
+(11/19 16:01:28) phend: They must learn.
+(11/19 16:01:37) Zardoz: We've had help learning, too
+(11/19 16:01:40) phend: Wow. So soon!
+(11/19 16:02:31) phend: Did the DRC let them come?
+(11/19 16:02:47) Zardoz: Let them - well, they're tolerating us, not thrilled to see so many
+(11/19 16:03:21) phend: But the city... and the ages. They weren't even near ready? When did you come?
+(11/19 16:03:30) phend: How did you know me?
+(11/19 16:03:51) Zardoz: I knew you from Greer's report
+(11/19 16:04:13) Zardoz: And we started coming a few days ago, altho some of us have been here longer
+(11/19 16:05:01) phend: Okay, I'll be back... when I'm more ready. Will you help me again?
+(11/19 16:05:14) Zardoz: Yes. Should I mention this to Laxman?
+(11/19 16:05:27) phend: He'll know.
+(11/19 16:05:38) phend: bye
+(11/19 16:05:39) Zardoz: Okay. Good luck, and take care.
+(11/19 16:05:44) phend: ...and thanks.
+(11/19 16:06:46) To Victor Laxman in Victor Laxman's Nexus: Dr. Laxman, are you still there?
+(11/19 16:07:03) From Victor Laxman in Victor Laxman's Nexus: Still here.
+(11/19 16:07:09) To Victor Laxman in Victor Laxman's Nexus: Ooops, you're not a Dr.
+(11/19 16:07:18) To Victor Laxman in Victor Laxman's Nexus: I just met Phil Henderson
+(11/19 16:07:23) From Victor Laxman in Victor Laxman's Nexus: I've been called worse.
+(11/19 16:07:42) From Victor Laxman in Victor Laxman's Nexus: That was my first guess.
+(11/19 16:07:54) From Victor Laxman in Victor Laxman's Nexus: Is he OK?
+(11/19 16:07:57) To Victor Laxman in Victor Laxman's Nexus: He seemed dazed and confused, but healthy
+(11/19 16:08:39) To Victor Laxman in Victor Laxman's Nexus: He was in the cave behind the door with the Journey symbol
+(11/19 16:08:53) From Victor Laxman in Victor Laxman's Nexus: Where can I meet with you both?
+(11/19 16:09:18) To Victor Laxman in Victor Laxman's Nexus: He has returned to the cave - I respected his wishes and let him go
+(11/19 16:09:29) To Victor Laxman in Victor Laxman's Nexus: In Eder Kemo
+(11/19 16:09:33) From Victor Laxman in Victor Laxman's Nexus: His KI signal has gone.
+(11/19 16:09:46) To Victor Laxman in Victor Laxman's Nexus: He did say he would return
+(11/19 16:09:55) From Victor Laxman in Victor Laxman's Nexus: I thought he might still be there
+(11/19 16:10:32) To Victor Laxman in Victor Laxman's Nexus: Is it appropriate to explore the cave?
+(11/19 16:10:42) From Victor Laxman in Victor Laxman's Nexus: Marie will be very glad to hear he's OK.
+(11/19 16:11:32) From Victor Laxman in Victor Laxman's Nexus: Please let me know if you hear from him again.
+(11/19 16:11:41) To Victor Laxman in Victor Laxman's Nexus: Okay
+(11/19 16:11:46) From Victor Laxman in Victor Laxman's Nexus: The cave's the least of my concerns at this point.
+(11/19 16:11:59) From Victor Laxman in Victor Laxman's Nexus: But be careful. I don't know what's going on.
+(11/19 16:12:18) To Victor Laxman in Victor Laxman's Nexus: Very strange in here
+(11/19 16:13:44) To Victor Laxman in Victor Laxman's Nexus: Is it appropriate to mention this on the DRC site message board?

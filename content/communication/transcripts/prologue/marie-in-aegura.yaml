@@ -1,0 +1,14 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Marie Sutherland in Ae'gura"
+layout: "transcript"
+description: " "
+logged_on: "2003-12-08"
+sequence: 1
+logged_by: "BlindWanderer"
+location: "Ae'gura"
+highlight:
+  - "Marie Sutherland"

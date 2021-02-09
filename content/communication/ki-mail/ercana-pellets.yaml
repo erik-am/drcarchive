@@ -1,0 +1,10 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+layout: "ki"
+title: "Er'cana Pellets"
+from: "The DRC"
+sent_on: "06/27/2007"

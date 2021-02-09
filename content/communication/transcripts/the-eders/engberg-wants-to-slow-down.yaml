@@ -1,0 +1,23 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Engberg wants to slow down"
+layout: "transcript"
+logged_on: "2007-01-30"
+logged_by: "Whilyam"
+description: ""
+location: "Ae'gura"
+sequence: 2
+highlight:
+  - "Michael Engberg"
+
+reps:
+  default: {}
+  raw:
+    filters_pre:  []
+    filters_post: []
+    layout:       none
+    extension:    'txt'
+    filename: 'transcript'

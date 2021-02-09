@@ -1,0 +1,13 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Engberg relaxes"
+layout: "transcript"
+logged_on: "2003-12-04"
+logged_by: "Tink"
+location: "Quintin's Neighbourhood"
+sequence: 2
+highlight:
+  - "Michael Engberg"

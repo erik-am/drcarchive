@@ -1,0 +1,12 @@
+<%= render 'header' %>
+
+<h2><%= @item[:title] %></h2>
+
+<div class="article">
+<% if @item[:picture] != nil %>
+<img src="<%= @item[:picture] %>" width="<%= @item[:picture_width] %>" height="<%= @item[:picture_height] %>" class="right" alt="<%= @item[:title] %>">
+<% end %>
+<%= yield %>
+</div>
+
+<%= render 'footer' %>

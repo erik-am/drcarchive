@@ -1,0 +1,15 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+filters_post:
+  - "rubypants"
+
+# Custom
+layout: "doc"
+title: "The Finding of the Lost Books of Birenni"
+description: "This documents explains the origin of the Celebration of the Finding of the Lost Books of Birenni. A painting of Lalen could be seen in the Ae'gura Museum."
+picture: "lalen_thumb.png"
+picture_alt: "A painting of Lalen"
+picture_width: 120
+picture_height: 200
+picture_large: "lalen.jpg"

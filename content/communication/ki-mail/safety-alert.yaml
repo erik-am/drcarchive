@@ -1,0 +1,11 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+layout: "ki"
+title: "Safety Alert"
+from: "The DRC"
+sent_on: "05/19/2007"
+sequence: 2

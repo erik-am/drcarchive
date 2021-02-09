@@ -1,0 +1,178 @@
+(06/13 12:58:50) Vortmax: Just waiting for people to arrive. 
+(06/13 12:59:01) Vortmax: Heya Wolfie 
+(06/13 12:59:12) CAGrayWolf: Hiya Vort 
+(06/13 12:59:19) CAGrayWolf: Shorah Marie 
+(06/13 12:59:35) Vortmax: And here comes Dr. Engberg! 
+(06/13 12:59:35) Marie Sutherland: shorah 
+(06/13 12:59:48) CAGrayWolf: Shorah Michael 
+(06/13 13:00:04) Michael Engberg: Shorah 
+(06/13 13:00:11) CAGrayWolf: Shorah Eleri 
+(06/13 13:00:17) Eleri: ahh, coned again 
+(06/13 13:00:19) Vortmax: Hello Michael and Eleri 
+(06/13 13:00:34) Eleri: afternoon, gang 
+(06/13 13:00:46) Marie Sutherland: Good afternoon 
+(06/13 13:00:54) Vortmax: So, here we are again. 
+(06/13 13:01:05) Michael Engberg: hmmm 
+(06/13 13:01:13) CAGrayWolf: Beem a while since we last met. 
+(06/13 13:01:18) Eleri: congrats on getting funding! 
+(06/13 13:01:40) Vortmax: Yes! 
+(06/13 13:01:41) Vortmax cheers 
+(06/13 13:01:49) Error: Don't know how to '/cheers' 
+(06/13 13:01:56) CAGrayWolf cheers 
+(06/13 13:02:03) Michael Engberg: 
+(06/13 13:02:05) Vortmax: Tweek is on his way too 
+(06/13 13:02:14) Eleri: [o'adfgo 
+(06/13 13:02:17) Marie Sutherland: Thanks. It's been keeping us even busier than usual. 
+(06/13 13:02:21) CAGrayWolf: Ahhh, was just going to ask about him. 
+(06/13 13:02:21) Eleri: ack, oops, sorry 
+(06/13 13:02:24) Vortmax: Good! 
+(06/13 13:02:39) Vortmax: So, what have you been working on, now that you have funding? 
+(06/13 13:02:59) Michael Engberg: Safety 
+(06/13 13:03:01) Marie Sutherland: Our new funders have a lot of inertia. It takes a lot longer to get anything done. There are meetings to arrange meetings to arrange meetings 
+(06/13 13:03:21) Eleri: ahh, the machine 
+(06/13 13:03:22) Vortmax chuckles 
+(06/13 13:03:28) CAGrayWolf starts to laugh 
+(06/13 13:03:31) Vortmax: Sort of like votes to arrange votes to arrange votes... 
+(06/13 13:03:39) CAGrayWolf: ACK!!! 
+(06/13 13:03:42) Marie Sutherland: yes, very similar 
+(06/13 13:03:55) Eleri: bite your tongue, Vort! 
+(06/13 13:03:56) Marie Sutherland: But once things get moving, it will be nice 
+(06/13 13:04:08) Vortmax: Are you actually getting to do any restoration work, or is it all still planning at this point? 
+(06/13 13:04:10) Michael Engberg: Yes it will.. 
+(06/13 13:04:24) Michael Engberg: some small work 
+(06/13 13:04:50) Eleri: coolcool 
+(06/13 13:05:14) Eleri: afternoon, Dr. Kodama 
+(06/13 13:05:23) Michael Engberg waves 
+(06/13 13:05:27) CAGrayWolf: Shorah Dr Kodama 
+(06/13 13:05:34) Vortmax: Wow, hello Dr. Kodama! How unexpected! 
+(06/13 13:06:06) CAGrayWolf: Will Vitor be attending? 
+(06/13 13:06:17) Vortmax: Heya Tweek 
+(06/13 13:06:18) CAGrayWolf: Shorah Tweekster 
+(06/13 13:06:23) Marie Sutherland: I do not think Victor will be here today. 
+(06/13 13:06:24) Tweek: my appologise, was busy fixing this mess with DJC 
+(06/13 13:06:34) Eleri: napalm, Tweek. 
+(06/13 13:06:37) Vortmax: Yeah, I'm sorry to see that Tweek. 
+(06/13 13:06:39) Vortmax laughs 
+(06/13 13:06:46) Vortmax: I'm with Eleri on that one. 
+(06/13 13:07:15) Eleri: So, we had a thought... 
+(06/13 13:07:20) Tweek: well I managed to get hold of an old sql dump to use on a roll back, we're gonna loose about 3 weeks of stuff. 
+(06/13 13:07:51) Vortmax grumbles about lost data thanks to stupid script kiddies 
+(06/13 13:08:18) CAGrayWolf: Goona be costly to us because of all the Liaison stuff there. 
+(06/13 13:08:43) Vortmax: Eleri, what was your thought you had? 
+(06/13 13:08:43) Eleri: most of the logs are already on the DRCL site, right? 
+(06/13 13:08:45) Tweek: yes I know, I am currently archoving topics to move over hopefully we wont loose much. 
+(06/13 13:08:54) Vortmax: Yes, Eleri. 
+(06/13 13:09:07) CAGrayWolf: OK, cool. Hope you succeed 
+(06/13 13:09:18) Eleri: asking some fun questions of the DRC memebrs. 
+(06/13 13:09:23) Michael Engberg: Afternoon Kodama 
+(06/13 13:09:25) Vortmax: Oh yeah! 
+(06/13 13:09:34) Tweek: in the mean time I can set up a temp forum for us to use on my test forums. 
+(06/13 13:09:42) Eleri: more off the wall, non-restoration related things 
+(06/13 13:09:54) Eleri: and posting them as sidebars of the DRCL site 
+(06/13 13:10:07) Marie Sutherland: That would be nice, Eleri. 
+(06/13 13:10:49) Eleri: I think it would help to demystify (ahem) you guys a little 
+(06/13 13:11:09) CAGrayWolf: I have a question to ask. 
+(06/13 13:12:02) CAGrayWolf: I have received several requests from out Spanish speaking community asking if the KI and Nexus can or ay least will be translated for Spanish. 
+(06/13 13:12:47) Marie Sutherland: That might be a good question for Victor tomorrow. 
+(06/13 13:13:12) CAGrayWolf: I did pronise I would bring it up in the TH meeting as well. 
+(06/13 13:13:19) Vortmax: Speaking of TH meetings, do you know of a good time to reschedule the one we missed? 
+(06/13 13:13:38) Eleri: or maybe do them both tomorrow? 
+(06/13 13:13:39) From Ivan in DRC (35) Neighborhood: Can you tell me where the DRC members are? 
+(06/13 13:13:45) Vortmax: Yeah, what Eleri said 
+(06/13 13:14:00) To Ivan in DRC (35) Neighborhood: We are all busy in a meeting at the moment. 
+(06/13 13:14:12) From Ivan in DRC (35) Neighborhood: Private? 
+(06/13 13:14:12) Marie Sutherland: No, I'd rather it be rescheduled for a separate date. 
+(06/13 13:14:45) To Ivan in DRC (35) Neighborhood: Yes, will post chat log latter. 
+(06/13 13:15:02) Eleri: *nod* might be overwhelming to do both 
+(06/13 13:15:30) CAGrayWolf: Agreed 
+(06/13 13:15:41) Eleri: when would be good for you guys? 
+(06/13 13:18:04) Dr. Kodama: Is there any business we need to discuss here? 
+(06/13 13:18:30) Eleri: hmm, other than checking in, rescheduling that meeting... is there anything new you guys need us to be doing? 
+(06/13 13:18:46) Eleri: now that someone opened the pursestrings? 
+(06/13 13:19:09) Dr. Kodama: Keep your fingers crossed. 
+(06/13 13:19:23) CAGrayWolf: How do you all feel we are doing with the TH meetings and keeping the Explorers informed? 
+(06/13 13:19:33) Marie Sutherland: let's tentatively set it for 6/20 
+(06/13 13:19:34) Dr. Kodama: And keep hope alive 
+(06/13 13:19:43) Michael Engberg: Great 
+(06/13 13:19:45) Vortmax: And, can we get a bit more detail on what you've been doing on the Restoration, other than meetings? 
+(06/13 13:19:56) Tweek: any new KI images of places being planned on being released to spread interest to new explorers? 
+(06/13 13:20:08) Dr. Kodama: Not that I'm aware of - not yet. 
+(06/13 13:20:11) Vortmax: Heh, now we're all flooding with questions... 
+(06/13 13:20:33) Dr. Kodama: New Ages are still in early stages - fairly dangerous 
+(06/13 13:21:06) Michael Engberg: We need to start small.. because we are small. 
+(06/13 13:21:09) CAGrayWolf: Cool ... still would be nice to have a small glimpse though. Help keep interest, you know. 
+(06/13 13:21:23) Eleri: voracious explorers 
+(06/13 13:21:27) Eleri: rarr 
+(06/13 13:21:29) Vortmax: Have you hired any new ResEngs to help out? 
+(06/13 13:21:37) Michael Engberg: A glimpse of something new?? 
+(06/13 13:21:45) Dr. Kodama: No, as Engberg just said, we are small...still... 
+(06/13 13:21:55) CAGrayWolf: or even current ... like a small teaser. 
+(06/13 13:22:09) Eleri: some people have asked about volunteer resengs 
+(06/13 13:22:16) Vortmax: You wouldn't believe the excitement that one shot of Eder Delin caused. Well, perhaps you would. 
+(06/13 13:22:38) Dr. Kodama: WeWhen we have something worth showing, I'm sure we will. 
+(06/13 13:22:42) CAGrayWolf: Agreed, they are still talking about that one shot. 
+(06/13 13:23:11) Marie Sutherland: Yes, we understand. 
+(06/13 13:23:50) Michael Engberg: I agree with Kodama.. it would be silly to show the same ole thing over again. 
+(06/13 13:24:08) Dr. Kodama: In the end, the sneak peeks are not going to appease anyone for the long haul. We are trying to get Ages ready. 
+(06/13 13:24:21) CAGrayWolf: Understood 
+(06/13 13:24:33) Eleri: Just knowing you guys are up to something is worth knowing 
+(06/13 13:24:41) Michael Engberg: Reminds me I need to get a ResEng on the DRCsite 
+(06/13 13:24:41) Dr. Kodama: We are up to something. : ) 
+(06/13 13:24:55) Dr. Kodama: You can know that. 
+(06/13 13:25:03) CAGrayWolf: And I would personally rather have you all working on the new areas and Ages. 
+(06/13 13:25:03) Eleri: *chuckle* 
+(06/13 13:25:15) CAGrayWolf: oooooooooooo ... a teaser, we get. 
+(06/13 13:25:25) Vortmax: Is there any chance we can meet with you on a more regular basis, such as once a month? 
+(06/13 13:25:40) Dr. Kodama: I'm sure there is a chance. 
+(06/13 13:25:50) Dr. Kodama: What percentage are you looking for? 
+(06/13 13:25:58) Vortmax: Heh, let me rephrase that: Is there a good chance?? Greater than, say, 80%? 
+(06/13 13:26:01) Eleri starts to laugh 
+(06/13 13:26:11) Marie Sutherland: I'd rather meet as necessary, rather than on a set schedule. 
+(06/13 13:26:29) CAGrayWolf: Well, basically ... we are already meeting once a month. 
+(06/13 13:26:40) Dr. Kodama: Right, as necessary. I agree with Marie. 
+(06/13 13:26:53) Marie Sutherland: True, we have. 
+(06/13 13:26:59) Eleri: as far as the THs.. does the lecture-followed by questions format work for you? 
+(06/13 13:27:28) Marie Sutherland: As far as I know, yes. That has worked well for everyone on the DRC and at Cyan. 
+(06/13 13:28:03) CAGrayWolf: Very cool. Glad we were able to get this together as we have. 
+(06/13 13:28:18) Marie Sutherland: 
+(06/13 13:28:37) Vortmax: Okay, one thing I promised I'd ask for an explorer: Are people who helped Sharper go around the DRC, like Nick White, still working for you? If so, why? 
+(06/13 13:29:15) Dr. Kodama: Nick helps where he can. 
+(06/13 13:29:27) Dr. Kodama: Is there any reason he shouldn't? 
+(06/13 13:29:39) Michael Engberg: Why not?? Exactly, we need all the help we can get. 
+(06/13 13:29:58) Vortmax: I think it was that explorer's opinion that he'd kind of "betrayed" you or something. I just promised to ask, and I got an anser 
+(06/13 13:30:00) Vortmax: *answer 
+(06/13 13:30:26) CAGrayWolf: Personally, I thought Nick was more mislead by Sharper than did he actually knowingly wen behind the backs of the DRC. 
+(06/13 13:30:49) Dr. Kodama: Alright, is that all then? 
+(06/13 13:30:57) Vortmax: I'm of the opinion that it doesn't matter much now. Things have changed so much since then. 
+(06/13 13:31:13) Vortmax: I believe so. 
+(06/13 13:31:28) Marie Sutherland: Yes. Many things have changed. 
+(06/13 13:31:30) Eleri: I'm all good 
+(06/13 13:31:38) Vortmax: Anything else you'd like to tell us? 
+(06/13 13:31:46) Dr. Kodama: Good job everyone. We'll talk to you soon. I need to be heading out. 
+(06/13 13:31:53) CAGrayWolf: Oh, there are several lights that have been burned out for almost 3 years here in the hood that really should be replaced. 
+(06/13 13:32:02) Vortmax: Oh, and please thank Dr. Laxman for working on the Lattice for us! Things seem to be much improved. 
+(06/13 13:32:02) Eleri: LOL 
+(06/13 13:32:03) Marie Sutherland laughs 
+(06/13 13:32:08) Vortmax laughs 
+(06/13 13:32:31) Dr. Kodama: it takes a lot of DRC members to change a lightbulb 
+(06/13 13:32:37) Eleri: one last thing lo lead off the fun questions... Favorite pizza toppings? 
+(06/13 13:32:38) CAGrayWolf starts to laugh 
+(06/13 13:32:40) Marie Sutherland: Excellent. I will pass that along to Victor 
+(06/13 13:32:41) CAGrayWolf: I bet 
+(06/13 13:33:05) Tweek: ham and pineapple FTW 
+(06/13 13:33:15) Michael Engberg: see ya.. 
+(06/13 13:33:25) Tweek: bye Michael 
+(06/13 13:33:30) Tweek: oops tolate 
+(06/13 13:33:33) Vortmax: Good luck to you with your meetings 
+(06/13 13:33:34) CAGrayWolf: Yep 
+(06/13 13:33:35) Marie Sutherland: hawaiian for me (canadian bacon & pineapple) 
+(06/13 13:33:43) Eleri: yum. 
+(06/13 13:33:53) CAGrayWolf: Yum Yum Yummy 
+(06/13 13:33:54) Marie Sutherland: thansk for all your time 
+(06/13 13:34:00) Vortmax: And thanks for yours! 
+(06/13 13:34:03) From Desperado in Relto de Desperado: shorah, CAGraywolf, we all see you on our list and we are very curious.....for we can't see where you are...a private hood...sorry...something new? 
+(06/13 13:34:08) Tweek: back to the sql mines for me I guess 
+(06/13 13:34:10) CAGrayWolf: That you Marie and to all the DRC and Cyan 
+(06/13 13:34:14) Marie Sutherland: take care. 
+(06/13 13:34:16) Vortmax: Good luck Tweek 
+(06/13 13:34:17) Marie Sutherland waves 

@@ -1,0 +1,12 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+title: "Great Zero"
+layout: "age-notes"
+category: "restoration"
+picture: "gz.jpg"
+picture_width: 375
+picture_height: 250

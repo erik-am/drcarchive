@@ -1,0 +1,23 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Nick White announces Cate's coming"
+layout: "transcript"
+logged_on: "2007-01-02"
+logged_by: "Maratanos"
+description: ""
+location: "Ae'gura"
+sequence: 1
+highlight:
+  - "Nick White"
+
+reps:
+  default: {}
+  raw:
+    filters_pre:  []
+    filters_post: []
+    layout:       none
+    extension:    'txt'
+    filename: 'transcript'

@@ -1,0 +1,12 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+title: "Kadish Tolesa"
+layout: "age-notes"
+category: "restoration"
+picture: "kadish.jpg"
+picture_width: 376
+picture_height: 252

@@ -1,0 +1,7 @@
+**Garden KI Snapshot 2002-06-01 k**
+
+Best of Garden KI shapshots. Taken with KI C7. Image uploaded after return. C-class KIs don't have the chromatic aberration evident in the B-class KIs, so the correction software has actually caused the aberration. Other issues: Periphery blurring and vignetting. (No lattice artifacts.)
+
+[XAD 18.1 msecs. Hv2.5 Sv0.88] Laxman
+
+![](kemo.jpg)

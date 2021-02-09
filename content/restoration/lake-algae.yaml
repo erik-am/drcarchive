@@ -1,0 +1,9 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+filters_post:
+  - "rubypants"
+
+# Custom
+title: "Feed the Lake Algae Project"
+category: "restoration"

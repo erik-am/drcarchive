@@ -1,0 +1,15 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Meet the DRC: Marie Sutherland (Afternoon session)"
+layout: "transcript"
+description: " "
+logged_on: "2006-04-26"
+time: "from 16:00 until 16:30"
+sequence: 5
+logged_by: "DRC Liaisons"
+location: "Uru Obsession Neighbourhood"
+highlight:
+  - "Marie Sutherland"

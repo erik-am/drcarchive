@@ -1,0 +1,25 @@
+Simply put: Ahyoheek is a D'ni game very similar to rock, paper, scissors, although players are trying to collect three of an item (pen/beetle/page), instead of simply defeating their competitors and moving on.
+The game can be played with from 2 to 5 players.
+
+A round consists of one "throw-down". Each player chooses whether they will play pen, page, or beetles. After all players have made their choices, the choices and winner are revealed. Each player's selection is compared with each of the other players. 1 round-point is awarded for each victory (pen over beetles/beetles over page, etc...) and 1 round-point deducted for each loss.
+
+The player with the most round-points in the round wins whatever he/she played. For example a player could play a pen and win with the round with two points. He/she is then awarded a pen and the next round begins. It is possible for multiple players to win each round. It is also possible for no player to win a round.
+
+Example: one round in a five player game.
+
+Player 1 chooses pen    
+Player 2 chooses beetle    
+Player 3 chooses beetle    
+Player 4 chooses page    
+Player 5 chooses page
+
+This round is scored:    
+Player 1 ends up with 0 pts. (-2 pts. against the beetles; +2 pts against the pages)    
+Player 2 ends up with -1 pt. (-2 pts. against the pages; +1 pt. against the pen)    
+Player 3 ends up with -1 pt. (-2 pts. against the pages; +1 pt. against the pen)    
+Player 4 ends up with +1 pt. (-1 pt. against the pen; +2 pt. against the beetles)    
+Player 5 ends up with +1 pt. (-1 pt. against the pen; +2 pt. against the beetles)
+
+Players 4 and 5 each win a page toward their match goals.
+
+A match consists of however many rounds are needed in order for one player to collect either three pens, three pages, or three beetles. In the event of a tie, the person with the most wins in the match (who has the greater total of pens, pages, and beetles) wins. If there is still a tie, the tied players participate in sudden death rounds until a winner is determined. When scoring systems are working properly, the winner of the match receives ranking-points based on the rank of the other players.

@@ -1,0 +1,13 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Victor Laxman inspects Uru Obsession"
+layout: "transcript"
+logged_on: "2006-12-21"
+logged_by: "LegoAddict"
+location: "Uru Obsession neighbourhood"
+sequence: 5
+highlight:
+  - "Victor Laxman"

@@ -1,0 +1,11 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+title: "Eder Kemo KI Audio"
+category: "restoration"
+kind: "sights-and-sounds"
+posted_on: "2003-06-18"
+is_hidden: "true"

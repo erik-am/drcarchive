@@ -1,0 +1,11 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+title: "Seret KI Snapshot"
+category: "restoration"
+kind: "sights-and-sounds"
+posted_on: "2002-08-14"
+is_hidden: "true"

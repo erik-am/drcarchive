@@ -1,0 +1,16 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "The DRC allows Tink to meet Phil"
+layout: "transcript"
+logged_on: "2003-12-19"
+logged_by: "Tink"
+location: "Kirel (the DRC's own neighbourhood)"
+sequence: 2
+highlight:
+  - "Dr Watson"
+  - "phend"
+  - "Michael Engberg"
+  - "Dr Kodama"

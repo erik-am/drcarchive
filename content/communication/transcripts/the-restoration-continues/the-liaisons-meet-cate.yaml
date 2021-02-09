@@ -1,0 +1,24 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "The liaisons meet Cate"
+layout: "transcript"
+logged_on: "2007-01-03"
+logged_by: "the liaisons"
+description: ""
+location: "Liaison's neighbourhood"
+sequence: 2
+highlight:
+  - "Cate Alexander"
+  - "Marie Sutherland"
+
+reps:
+  default: {}
+  raw:
+    filters_pre:  []
+    filters_post: []
+    layout:       none
+    extension:    'txt'
+    filename: 'transcript'

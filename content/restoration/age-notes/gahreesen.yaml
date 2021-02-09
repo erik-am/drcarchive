@@ -1,0 +1,12 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+title: "Gahreesen"
+layout: "age-notes"
+category: "restoration"
+picture: "gahreesen.jpg"
+picture_width: 374
+picture_height: 249

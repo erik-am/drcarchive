@@ -1,0 +1,12 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Douglas Sharper visits the UruObsession Neighbourhood again"
+layout: "transcript"
+logged_on: "2003-12-22"
+logged_by: "Thanakar"
+location: "UruObsession Neighborhood"
+highlight:
+  - "Douglas Sharper"

@@ -1,0 +1,10 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+layout: "ki"
+title: "Tragedy in the Cavern"
+from: "The DRC"
+sent_on: "05/22/2007"

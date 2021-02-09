@@ -1,0 +1,11 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+layout: "ki"
+title: "Rescue Efforts Continue"
+from: "The DRC"
+sent_on: "05/21/2007"
+sequence: 2

@@ -1,0 +1,16 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Sharper and the DRC are looking for support"
+layout: "transcript"
+description: " "
+logged_on: "2003-12-11"
+logged_by: "MrM3FaN"
+sequence: 2
+location: "Aaron's Neighbourhood"
+highlight:
+  - "Douglas Sharper"
+  - "phend"
+  - "Victor Laxman"

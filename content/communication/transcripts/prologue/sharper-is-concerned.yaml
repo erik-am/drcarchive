@@ -1,0 +1,12 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Sharper is concerned"
+layout: "transcript"
+logged_on: "2003-11-26"
+logged_by: "knottyboy"
+location: "Ae'gura"
+highlight:
+  - "Douglas Sharper"

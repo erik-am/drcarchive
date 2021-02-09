@@ -1,0 +1,12 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Michael Engberg in Ae'gura"
+layout: "transcript"
+logged_on: "2003-12-01"
+logged_by: "Tink"
+location: "Ae'gura"
+highlight:
+  - "Michael Engberg"

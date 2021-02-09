@@ -1,0 +1,10 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+layout: "ki"
+title: "Michael Engberg Still Missing"
+from: "The DRC"
+sent_on: "06/22/2007"

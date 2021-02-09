@@ -1,0 +1,9 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+title: "Dahtamnay"
+layout: "age-notes"
+category: "restoration"

@@ -1,0 +1,14 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Peggy Sue is dead"
+layout: "transcript"
+description: " "
+logged_on: "2007-05-22"
+time: "15:05"
+logged_by: "finndove"
+location: "The Great Tree Neighbourhood"
+highlight:
+  - "Nick White"

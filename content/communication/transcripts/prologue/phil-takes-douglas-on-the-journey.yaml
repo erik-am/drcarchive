@@ -1,0 +1,14 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Phil takes Douglas on the journey"
+layout: "transcript"
+logged_on: "2003-12-05"
+logged_by: "John Lynch"
+location: "Ae'gura or a neighbourhood, and the German Explorers neighbourhood"
+sequence: 2
+highlight:
+  - "phend"
+  - "Douglas Sharper"

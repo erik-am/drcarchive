@@ -1,0 +1,11 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+title: "Eder Kemo KI Snapshot"
+category: "restoration"
+kind: "sights-and-sounds"
+posted_on: "2002-11-05"
+is_hidden: "true"

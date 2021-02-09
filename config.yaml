@@ -1,0 +1,3 @@
+output_dir:  "output"
+data_source: "filesystem_compact"
+base_url:    "http://drcarch.thecitadel.nl"

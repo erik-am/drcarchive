@@ -1,0 +1,12 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+filters_post:
+  - "rubypants"
+
+# Custom
+layout: "doc"
+subcat: "kings"
+title: "King Shomat"
+description: "A draft of this document, written by Nick White, was found on the Tokotah rooftop."
+king: 3

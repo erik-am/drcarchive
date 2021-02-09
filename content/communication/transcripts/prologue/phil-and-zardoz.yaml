@@ -1,0 +1,15 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Zardoz finds Phil Henderson"
+layout: "transcript"
+description: " "
+logged_on: "2003-11-19"
+logged_by: "Zardoz"
+location: "Eder Kemo"
+sequence: 2
+highlight:
+  - "phend"
+  - "Victor Laxman"

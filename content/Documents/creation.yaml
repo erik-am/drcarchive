@@ -1,0 +1,10 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+filters_post:
+  - "rubypants"
+
+# Custom
+layout: "doc"
+title: "Creation Myth"
+description: "The following D'ni myth was <q>translated from unknown religious commentary and/or text</q> and was given to Thend by Nick White to distribute during the 'Students of D'ni Knowlegde' meetings."

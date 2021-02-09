@@ -1,0 +1,40 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>D&#8217;ni Restoration Archive - <%= @item[:title] %></title>
+<link rel="stylesheet" href="/assets/style.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/assets/style_print.css" type="text/css" media="print">
+</head>
+
+<body>
+
+<div id="header">
+	<h1>D&#8217;ni Restoration Archive</h1>
+</div>
+
+<div id="menu">
+	<ul>
+	<li<%= (@item[:category]=="home" ? " id=\"actief\"" : "") %>><a href="/">Home</a></li>
+	<li<%= (@item[:category]=="restoration" ? " id=\"actief\"" : "") %>><a href="/restoration/">Restoration Progress</a></li>
+	<li<%= ((@item[:layout]=="doc")||(@item[:category]=="documents") ? " id=\"actief\"" : "") %>><a href="/documents/">Documents</a></li>
+	<li<%= ((@item[:layout]=="ki")||(@item[:layout]=="transcript")||(@item[:layout]=="transcript2")||(@item[:category]=="communication") ? " id=\"actief\"" : "") %>><a href="/communication/">Communication</a></li>
+	<li<%= ((@item[:title]=="Dutch translations") ? " id=\"actief\"" : "") %>><a href="/translations/">Dutch translations</a></li>
+	</ul>
+</div>
+
+<div id="pagina">
+
+<div class="breadcrumbs">
+<%=
+broodkruimels = []
+breadcrumbs_trail.compact.each { |item|
+	broodkruimels.push('<a href="'+item.reps[0].path+'">'+item[:title]+'</a>')
+}
+if broodkruimels.length > 2
+	"You are here: " + broodkruimels[1..-1].join(" &raquo; ")
+else
+	""
+end
+%>
+</div>

@@ -1,0 +1,14 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Phil teaches and learns in the neighbourhoods"
+layout: "transcript"
+logged_on: "2003-12-02"
+logged_by: "Dusante and Tweek"
+location: "Various neighbourhoods and Tweek's Relto"
+sequence: 2
+highlight:
+  - "phend"
+  - "Douglas Sharper"

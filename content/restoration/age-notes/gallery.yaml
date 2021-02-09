@@ -1,0 +1,12 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+title: "City Interior 0080"
+layout: "age-notes"
+category: "restoration"
+picture: "0080.jpg"
+picture_width: 376
+picture_height: 251

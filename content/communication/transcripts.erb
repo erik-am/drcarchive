@@ -1,0 +1,111 @@
+<script src="/assets/jquery-1.4.1.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+function filter()
+{
+	$('.transcript').hide();
+	for(var i = 0; i <  document.filtering.person.length; i++)
+	{
+		if(document.filtering.person[i].checked)
+			$('.'+document.filtering.person[i].value).show();
+	}
+}
+function select_all()
+{
+	$('.chk').each(function() { this.checked = true; });
+	filter();
+}
+function deselect_all()
+{
+	$('.chk').each(function() { this.checked = false; });
+	filter();
+}
+$(document).ready(function()
+{
+	$('#filtering').show();
+	$('.chk').click(filter);
+});
+//-->
+</script>
+
+<%
+$all_names = Hash.new
+
+def build_list(period)
+  output = ''
+  @items.select{ |item| /communication\/transcripts\/#{period}\/(.+?)\/$/.match(item.reps[0].path) }.sort_by{ |item| [Date::parse(item[:logged_on]),item[:sequence]] }.each do |item|
+    names = ''
+	if !item[:highlight].nil? 
+	  item[:highlight].each do |name|
+	    code_name = name.gsub(/\./, '')
+	    code_name.gsub!(/ /, '-')
+		code_name.downcase!
+	    names += code_name + ' '
+		$all_names[code_name] = name if !$all_names.has_key?(code_name)
+	  end
+	end
+    output += '<li class="transcript '+names.strip+'"><a href="'+item.reps[0].path+'">(' + item[:logged_on] + ') ' + item[:title] + '</a></li>'
+  end
+  "<ul>" + output + "</ul>"
+end
+
+prologue = build_list('prologue')
+dmala = build_list('dmala')
+therestorationcontinues = build_list('the-restoration-continues')
+theeders = build_list('the-eders')
+thepods = build_list('the-pods')
+%>
+
+<h2>About these transcripts</h2>
+
+<p>Although it is our intention to publish archived material with as few modifications as possible, transcripts have been slightly edited to improve readibility. This means that private messages between explorers have been removed, as well as timestamps (since timestamps weren't in Cavern time, they were only confusing). Sometimes there were no raw transcripts of an event, only already edited transcripts. In those cases the transcripts have been edited more than we would like, but that's beyond our reach.</p>
+
+<p>We traced many sources to ensure that the shown dates and locations are right. If you think you see an error, or if you have some additional information regarding a transcript, please contact us.</p>
+
+<p><%=
+output = '<form name="filtering" id="filtering" style="display: none;"><fieldset><legend>Filter</legend><p>'
+$all_names.sort.each do |code, name|
+  output += ' <input type="checkbox" name="person" id="chk_'+code+'" class="chk" value="'+code+'" checked="checked"><label for="chk_'+code+'">'+name+'</label> '
+end
+output += '<input type="button" onclick="select_all()" value="Select all"> <input type="button" onclick="deselect_all()" value="Deselect all"></p></fieldset></form>'
+output
+%></p>
+
+<h2>First Restoration Attempt</h2>
+<%= prologue %>
+
+<h2>D'mala</h2>
+
+In late 2005 some DRC members began returning to the Cavern. In 2006 more and more explorers returned to the Cavern and the DRC began to meet with the explorers once more. The DRC had hope that they might be able to continue the Restoration efforts. The DRC asked the community to elect 5 liaisons, to make communication between the DRC and the community easier. The elected liaisons (CAGrayWolf, Eleri, Gadren, Tweek and Vortmax) organised various Town Hall meetings with the DRC, Cyan and the explorers.
+
+<%= dmala %>
+
+<h2>The Restoration Continues</h2>
+
+<%= therestorationcontinues %>
+
+<h2>The Eders</h2>
+
+<%= theeders %>
+
+<h2>The Hunter and the Pods</h2>
+
+<%= thepods %>
+
+<h2>The Great Zero</h2>
+<p>Coming soon...</p>
+
+<h2>Scars</h2>
+<p>Coming soon...</p>
+
+<h2>A New Light</h2>
+<p>Coming soon...</p>
+
+<h2>Familiar Voices</h2>
+<p>Coming soon...</p>
+
+<h2>Deception</h2>
+<p>Coming soon...</p>
+
+<h2>Exodus</h2>
+<p>Coming soon...</p>

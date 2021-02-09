@@ -1,0 +1,15 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Phil and Douglas return from the Journey"
+layout: "transcript"
+description: " "
+logged_on: "2003-12-08"
+sequence: 2
+logged_by: "MrM3FaN and BlindWanderer"
+location: "theGreatTree's neighbourhood and Ae'gura"
+highlight:
+  - "Douglas Sharper"
+  - "phend"

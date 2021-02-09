@@ -1,0 +1,12 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+title: "Eder Kemo"
+layout: "age-notes"
+category: "restoration"
+picture: "ederkemo.jpg"
+picture_width: 375
+picture_height: 251

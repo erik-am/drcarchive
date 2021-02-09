@@ -1,0 +1,15 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Phil Henderson's accident"
+layout: "transcript"
+logged_on: "2003-12-26"
+logged_by: "Brian Fioca"
+location: "Ae'gura"
+highlight:
+  - "phend"
+  - "Dr Kodama"
+  - "Michael Engberg"
+  - "Victor Laxman"

@@ -1,0 +1,11 @@
+# Built-in
+filters_pre:
+  - "bluecloth"
+  - "rubypants"
+
+# Custom
+layout: "ki"
+title: "Ahnonay Released"
+from: "The DRC"
+sent_on: "11/02/2007"
+sequence: 2

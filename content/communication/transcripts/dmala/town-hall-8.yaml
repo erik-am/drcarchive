@@ -1,0 +1,15 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Meet the DRC: Victor Laxman (Afternoon session)"
+layout: "transcript"
+description: " "
+logged_on: "2006-04-26"
+time: "from 17:00 until 17:30"
+sequence: 8
+logged_by: "DRC Liaisons"
+location: "Amber Horizons Neighbourhood"
+highlight:
+  - "Victor Laxman"

@@ -1,0 +1,13 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Douglas Sharper invites more people to see the Egg Rooms"
+layout: "transcript"
+logged_on: "2003-12-19"
+logged_by: "Brian Fioca"
+location: "Douglas Sharper's Neighbourhood"
+sequence: 3
+highlight:
+  - "Douglas Sharper"

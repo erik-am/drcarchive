@@ -1,0 +1,18 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Phil is kidnapped by the DRC"
+layout: "transcript"
+description: " "
+logged_on: "2003-12-15"
+logged_by: "Almlys"
+time: "from 16:00 until 18:00"
+sequence: 1
+location: "Ae'gura"
+highlight:
+  - "phend"
+  - "Douglas Sharper"
+  - "Dr Watson"
+  - "Victor Laxman"

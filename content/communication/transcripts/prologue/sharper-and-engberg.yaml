@@ -1,0 +1,13 @@
+# Built-in
+filters_post:
+  - "rubypants"
+  
+# Custom
+title: "Sharper and Engberg in Ae'gura"
+layout: "transcript"
+logged_on: "2003-11-25"
+logged_by: "Moranda"
+location: "Ae'gura"
+highlight:
+  - "Douglas Sharper"
+  - "Michael Engberg"
